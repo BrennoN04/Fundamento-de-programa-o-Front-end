@@ -1,4 +1,3 @@
-/*Atividade 1*/
 /*Seleciona h1 e p*/
 h1, p {
     color: blue;
@@ -9,15 +8,3 @@ a {
     color: green;
 }
 
-/*Atividade 2*/
-.codigo {
-    color: blue;
-}
-
-.design {
-    color: red;
-}
-
-.underline {
-    text-decoration: underline;
-}
