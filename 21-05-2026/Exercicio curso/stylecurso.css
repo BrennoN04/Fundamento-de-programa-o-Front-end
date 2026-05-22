@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+}
+
+div{
+    background-color: #111;
+    border-radius: 8px;
+    width: 600px;
+    padding: 30px;
+    margin: 20px auto;
+}
+
+h2{
+    color: white;
+}
+
+p{
+    color: #b2b2b2;
+}
+
+span{
+    color: #febe01;
+}
+
+button{
+    background-color: #febe01;
+    color: #111;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+}
